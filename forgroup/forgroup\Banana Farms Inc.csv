@@ -1,0 +1,3 @@
+supplier,date_received,ingredient_name,number_of_cases,units_per_case,sample_case_count1,sample_case_count2,sample_case_count3,sample_case_rejections1,sample_case_rejections2,sample_case_rejections3,Rejection_rate,Notifications
+Banana Farms Inc,11-Jun-21,bananas_organic,24,40,40,40,40,0,0,0,0.0,"Hi Banana Farms Inc, you have 0.0% rejected of bananas_organic products"
+Banana Farms Inc,11-Jun-21,bananas_organic,20,30,30,30,30,0,0,0,0.0,"Hi Banana Farms Inc, you have 0.0% rejected of bananas_organic products"

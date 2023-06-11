@@ -1,0 +1,13 @@
+,Dill Farms
+date_received,10-Jun-21
+ingredient_name,cucumber_pickle
+number_of_cases,15
+units_per_case,50
+sample_case_count1,50
+sample_case_count2,50
+sample_case_count3,50
+sample_case_rejections1,0
+sample_case_rejections2,0
+sample_case_rejections3,0
+Rejection_rate,0.0
+Notifications,"Hi Dill Farms, you have 0.0% rejected of cucumber_pickle products"

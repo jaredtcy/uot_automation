@@ -1,0 +1,13 @@
+,Apple Farm
+date_received,13-Jun-21
+ingredient_name,apples_gala
+number_of_cases,20
+units_per_case,90
+sample_case_count1,90
+sample_case_count2,90
+sample_case_count3,90
+sample_case_rejections1,0
+sample_case_rejections2,0
+sample_case_rejections3,0
+Rejection_rate,0.0
+Notifications,"Hi Apple Farm, you have 0.0% rejected of apples_gala products"

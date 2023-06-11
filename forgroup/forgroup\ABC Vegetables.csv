@@ -1,0 +1,6 @@
+supplier,date_received,ingredient_name,number_of_cases,units_per_case,sample_case_count1,sample_case_count2,sample_case_count3,sample_case_rejections1,sample_case_rejections2,sample_case_rejections3,Rejection_rate,Notifications
+ABC Vegetables,10-Jun-21,tomato_cherry,10,100,95,100,110,5,3,5,0.04262295081967213,"Hi ABC Vegetables, you have 4.2622950819672125% rejected of tomato_cherry products"
+ABC Vegetables,10-Jun-21,tomato_vine,10,100,100,98,101,0,0,0,0.0,"Hi ABC Vegetables, you have 0.0% rejected of tomato_vine products"
+ABC Vegetables,10-Jun-21,cucumber_english,14,50,51,50,51,10,0,0,0.06578947368421052,"Hi ABC Vegetables, you have 6.578947368421052% rejected of cucumber_english products"
+ABC Vegetables,11-Jun-21,bananas_organic,26,30,30,28,29,0,3,0,0.034482758620689655,"Hi ABC Vegetables, you have 3.4482758620689653% rejected of bananas_organic products"
+ABC Vegetables,13-Jun-21,oranges_california,40,100,100,102,101,0,0,3,0.009900990099009901,"Hi ABC Vegetables, you have 0.9900990099009901% rejected of oranges_california products"

@@ -1,0 +1,3 @@
+supplier,date_received,ingredient_name,number_of_cases,units_per_case,sample_case_count1,sample_case_count2,sample_case_count3,sample_case_rejections1,sample_case_rejections2,sample_case_rejections3,Rejection_rate,Notifications
+Tomato Land,10-Jun-21,tomato_cherry,20,500,440,480,500,10,0,25,0.02464788732394366,"Hi Tomato Land, you have 2.464788732394366% rejected of tomato_cherry products"
+Tomato Land,10-Jun-21,tomato_vine,25,100,100,100,100,0,0,0,0.0,"Hi Tomato Land, you have 0.0% rejected of tomato_vine products"
